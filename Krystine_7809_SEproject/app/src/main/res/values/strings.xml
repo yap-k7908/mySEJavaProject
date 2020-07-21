@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">What Which Where</string>
+    <string name="strSize">Packaging Size</string>
+    <string name="strUnit">Unit</string>
+    <string name="strPrice">Price</string>
+    <string name="strCalculate">Calculate</string>
+    <string name="strBrand">Brand</string>
+    <string name="strLocation">Location</string>
+    <string name="strSave">Save</string>
+    <string name="strCompare">Compare</string>
+    <string name="strProduct">Product Type</string>
+    <string name="strTitle">What Which Where</string>
+
+    <string-array name="strUnits">
+        <item>gr</item>
+        <item>oz</item>
+        <item>lbs</item>
+        <item>ml</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,3 @@
+include ':app:comparetable'
+include ':app'
+rootProject.name = "What Which Where"
